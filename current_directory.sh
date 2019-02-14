@@ -7,5 +7,5 @@ echo $CURRENT_DIR
     echo "Current directory complete"
     #we are testing vscode now
 echo "VS Code is pretty cool!"
-# integrate with git
+    # integrate with git
 echo "Git is cool!"
