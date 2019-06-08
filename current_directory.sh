@@ -7,3 +7,4 @@ echo $CURRENT_DIR
 echo "Current directory complete"
 #we are testing vscode now
 echo "VS Code is pretty cool!"
+echo "Pull demo"
